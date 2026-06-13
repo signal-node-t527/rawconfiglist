@@ -1,0 +1,24 @@
+{
+  "id": "uuidn33",
+  "heroBadgeGreeting": {
+    "en": "Hello, I'm Nazareno - Beta Tester",
+    "es": "Hola, soy Nazareno - Beta Tester"
+  },
+  "heroBadgeRole": {
+    "en": "Real-time Config Expert",
+    "es": "Experto en Configuración Real-time"
+  },
+  "heroHeadingHighlight": {
+    "en": "dynamic",
+    "es": "dinámicos"
+  },
+  "heroSubheading": {
+    "en": "This page is rendered using a remote configuration file named uuidn33.json. Try changing the primary color!",
+    "es": "Esta página se renderiza usando un archivo de configuración remoto llamado uuidn33.json. ¡Prueba a cambiar el color primario!"
+  },
+  "customProjects": [
+    "nlp-classifier",
+    "vision-qa"
+  ],
+  "primaryColor": "150 60% 40%"
+}
