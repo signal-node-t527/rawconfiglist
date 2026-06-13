@@ -1,0 +1,24 @@
+{
+  "id": "cli-test-1",
+  "heroBadgeGreeting": {
+    "en": "Hello from CLI",
+    "es": "Hola desde CLI"
+  },
+  "heroBadgeRole": {
+    "en": "CLI Automation Expert",
+    "es": "Ingeniero de IA a medida"
+  },
+  "heroHeadingHighlight": {
+    "en": "automated",
+    "es": "revolucionarios"
+  },
+  "heroSubheading": {
+    "en": "This content was loaded in real-time from a remote configuration file.",
+    "es": "Este contenido fue cargado en tiempo real desde un archivo de configuración."
+  },
+  "customProjects": [
+    "nlp-classifier",
+    "vision-qa"
+  ],
+  "primaryColor": "200 70% 50%"
+}
