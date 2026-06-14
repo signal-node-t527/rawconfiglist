@@ -1,0 +1,45 @@
+{
+  "id": "f75165ac",
+  "heroBadgeGreeting": {
+    "en": "Hello, I'm Nazareno",
+    "es": "Hola, soy Nazareno"
+  },
+  "heroBadgeRole": {
+    "en": "Senior Backend Developer",
+    "es": "Desarrollador Backend Senior"
+  },
+  "heroHeadingPre": {
+    "en": "I build ",
+    "es": "Construyo sistemas "
+  },
+  "heroHeadingHighlight": {
+    "en": "scalable",
+    "es": "escalables"
+  },
+  "heroHeadingPost": {
+    "en": " systems and scalable software.",
+    "es": " y escalables."
+  },
+  "heroSubheading": {
+    "en": "Data Science student and Fullstack developer specialized in AI-driven solutions.",
+    "es": "Estudiante de Ciencia de Datos y desarrollador Fullstack especializado en soluciones impulsadas por IA."
+  },
+  "aboutSubtitle": {
+    "en": "Specialized in high-performance .NET 9 and Python microservices with Docker.",
+    "es": "Especializado en microservicios .NET 9 y Python de alto rendimiento con Docker."
+  },
+  "aboutExperience": {
+    "en": "Developing high-performance systems with Angular and .NET, focused on Graph Analysis and RAG architectures.",
+    "es": "Desarrollando sistemas de alto rendimiento con Angular y .NET, enfocado en análisis de grafos y arquitecturas RAG."
+  },
+  "cvLink": {
+    "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_backend_en.pdf",
+    "es": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_backend_es.pdf"
+  },
+  "customProjects": [
+    "ere",
+    "suggestion-engine",
+    "arborismo"
+  ],
+  "primaryColor": "230 40% 40%"
+}

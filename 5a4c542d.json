@@ -1,0 +1,45 @@
+{
+  "id": "5a4c542d",
+  "heroBadgeGreeting": {
+    "en": "Hello, I'm Nazareno",
+    "es": "Hola, soy Nazareno"
+  },
+  "heroBadgeRole": {
+    "en": "Senior Frontend Developer",
+    "es": "Desarrollador Frontend Senior"
+  },
+  "heroHeadingPre": {
+    "en": "I build ",
+    "es": "Construyo sistemas "
+  },
+  "heroHeadingHighlight": {
+    "en": "interactive",
+    "es": "interactivas"
+  },
+  "heroHeadingPost": {
+    "en": " systems and scalable software.",
+    "es": " y escalables."
+  },
+  "heroSubheading": {
+    "en": "Data Science student and Fullstack developer specialized in AI-driven solutions.",
+    "es": "Estudiante de Ciencia de Datos y desarrollador Fullstack especializado en soluciones impulsadas por IA."
+  },
+  "aboutSubtitle": {
+    "en": "Crafting complex, window-based windowing systems and reactive UIs with Angular 19.",
+    "es": "Creando sistemas de ventanas complejos y UIs reactivas con Angular 19."
+  },
+  "aboutExperience": {
+    "en": "Developing high-performance systems with Angular and .NET, focused on Graph Analysis and RAG architectures.",
+    "es": "Desarrollando sistemas de alto rendimiento con Angular y .NET, enfocado en análisis de grafos y arquitecturas RAG."
+  },
+  "cvLink": {
+    "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_frontend_en.pdf",
+    "es": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_frontend_es.pdf"
+  },
+  "customProjects": [
+    "ere",
+    "suggestion-engine",
+    "arborismo"
+  ],
+  "primaryColor": "30 80% 50%"
+}
