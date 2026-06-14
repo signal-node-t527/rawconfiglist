@@ -1,0 +1,35 @@
+{
+  "id": "full-config-test",
+  "heroBadgeGreeting": {
+    "en": "Hello, I'm Nazareno - Custom Variant full-config-test",
+    "es": "Hola, soy Nazareno - Variante Personalizada full-config-test"
+  },
+  "heroBadgeRole": {
+    "en": "Custom AI Engineer",
+    "es": "Ingeniero de IA a medida"
+  },
+  "heroHeadingPre": {
+    "en": "Welcome to ",
+    "es": "Construyo sistemas "
+  },
+  "heroHeadingHighlight": {
+    "en": "future",
+    "es": "revolucionarios"
+  },
+  "heroHeadingPost": {
+    "en": " of AI",
+    "es": " y escalables."
+  },
+  "heroSubheading": {
+    "en": "This content was loaded in real-time from a remote configuration file.",
+    "es": "Este contenido fue cargado en tiempo real desde un archivo de configuración."
+  },
+  "aboutSubtitle": {
+    "en": "This is a custom about me description from the CLI script.",
+    "es": "Enfocado en conectar la investigación en IA con sistemas de producción."
+  },
+  "customProjects": [
+    "agent-system"
+  ],
+  "primaryColor": "300 80% 60%"
+}
