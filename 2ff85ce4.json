@@ -1,5 +1,5 @@
 {
-  "id": "fe3e1fbb",
+  "id": "2ff85ce4",
   "heroBadgeGreeting": {
     "en": "Hello, I'm Nazareno",
     "es": "Hola, soy Nazareno"
@@ -21,16 +21,16 @@
     "es": " y escalables."
   },
   "heroSubheading": {
-    "en": "Data Science student and Fullstack developer specialized in AI-driven solutions.",
-    "es": "Estudiante de Ciencia de Datos y desarrollador Fullstack especializado en soluciones impulsadas por IA."
+    "en": "Specialized in building Augmented Intelligence systems and data-driven architectures.",
+    "es": "Especializado en la creación de sistemas de Inteligencia Aumentada y arquitecturas de datos."
   },
   "aboutSubtitle": {
     "en": "Expert in Generative AI, RAG systems, and semantic search orchestration.",
     "es": "Experto en IA Generativa, sistemas RAG y orquestación de búsqueda semántica."
   },
   "aboutExperience": {
-    "en": "Developing high-performance systems with Angular and .NET, focused on Graph Analysis and RAG architectures.",
-    "es": "Desarrollando sistemas de alto rendimiento con Angular y .NET, enfocado en análisis de grafos y arquitecturas RAG."
+    "en": "Implementing RAG architectures and custom embeddings for complex problem-solving.",
+    "es": "Implementando arquitecturas RAG y embeddings personalizados para la resolución de problemas complejos."
   },
   "cvLink": {
     "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_ai_en.pdf",

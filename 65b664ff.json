@@ -1,5 +1,5 @@
 {
-  "id": "4bf2bceb",
+  "id": "65b664ff",
   "heroBadgeGreeting": {
     "en": "Hello, I'm Nazareno",
     "es": "Hola, soy Nazareno"
@@ -10,27 +10,27 @@
   },
   "heroHeadingPre": {
     "en": "I build ",
-    "es": "Construyo sistemas "
+    "es": "Construyo soluciones "
   },
   "heroHeadingHighlight": {
     "en": "end-to-end",
     "es": "integrales"
   },
   "heroHeadingPost": {
-    "en": " systems and scalable software.",
-    "es": " y escalables."
+    "en": " software and AI systems.",
+    "es": " y sistemas de IA."
   },
   "heroSubheading": {
-    "en": "Data Science student and Fullstack developer specialized in AI-driven solutions.",
-    "es": "Estudiante de Ciencia de Datos y desarrollador Fullstack especializado en soluciones impulsadas por IA."
+    "en": "Versatile developer specializing in the Angular and .NET Core stack, bridging AI logic and UX.",
+    "es": "Desarrollador versátil especializado en el stack Angular y .NET Core, conectando lógica de IA y UX."
   },
   "aboutSubtitle": {
     "en": "Versatile engineer bridging the gap between cutting-edge AI logic and polished user experiences.",
     "es": "Ingeniero versátil que conecta la lógica de IA de vanguardia con experiencias de usuario pulidas."
   },
   "aboutExperience": {
-    "en": "Developing high-performance systems with Angular and .NET, focused on Graph Analysis and RAG architectures.",
-    "es": "Desarrollando sistemas de alto rendimiento con Angular y .NET, enfocado en análisis de grafos y arquitecturas RAG."
+    "en": "Leading end-to-end development from advanced frontend components to robust backend microservices.",
+    "es": "Liderando el desarrollo de punta a punta, desde componentes frontend avanzados hasta microservicios backend robustos."
   },
   "cvLink": {
     "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_fullstack_en.pdf",

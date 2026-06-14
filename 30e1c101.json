@@ -1,5 +1,5 @@
 {
-  "id": "f75165ac",
+  "id": "30e1c101",
   "heroBadgeGreeting": {
     "en": "Hello, I'm Nazareno",
     "es": "Hola, soy Nazareno"
@@ -9,28 +9,28 @@
     "es": "Desarrollador Backend Senior"
   },
   "heroHeadingPre": {
-    "en": "I build ",
-    "es": "Construyo sistemas "
+    "en": "I architect ",
+    "es": "Arquitecturo sistemas "
   },
   "heroHeadingHighlight": {
     "en": "scalable",
     "es": "escalables"
   },
   "heroHeadingPost": {
-    "en": " systems and scalable software.",
-    "es": " y escalables."
+    "en": " backends and robust APIs.",
+    "es": " y APIs robustas."
   },
   "heroSubheading": {
-    "en": "Data Science student and Fullstack developer specialized in AI-driven solutions.",
-    "es": "Estudiante de Ciencia de Datos y desarrollador Fullstack especializado en soluciones impulsadas por IA."
+    "en": "Expert in building scalable architectures, SQL Server optimization, and AI-driven enhancements.",
+    "es": "Experto en arquitecturas escalables, optimización de SQL Server y mejoras mediante IA."
   },
   "aboutSubtitle": {
     "en": "Specialized in high-performance .NET 9 and Python microservices with Docker.",
     "es": "Especializado en microservicios .NET 9 y Python de alto rendimiento con Docker."
   },
   "aboutExperience": {
-    "en": "Developing high-performance systems with Angular and .NET, focused on Graph Analysis and RAG architectures.",
-    "es": "Desarrollando sistemas de alto rendimiento con Angular y .NET, enfocado en análisis de grafos y arquitecturas RAG."
+    "en": "Designing robust backend services in .NET Core (ASP.NET, EF Core) and high-performance graph processing.",
+    "es": "Diseñando servicios backend robustos en .NET Core (ASP.NET, EF Core) y procesamiento de grafos de alto rendimiento."
   },
   "cvLink": {
     "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_backend_en.pdf",

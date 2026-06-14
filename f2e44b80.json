@@ -1,5 +1,5 @@
 {
-  "id": "5a4c542d",
+  "id": "f2e44b80",
   "heroBadgeGreeting": {
     "en": "Hello, I'm Nazareno",
     "es": "Hola, soy Nazareno"
@@ -9,28 +9,28 @@
     "es": "Desarrollador Frontend Senior"
   },
   "heroHeadingPre": {
-    "en": "I build ",
-    "es": "Construyo sistemas "
+    "en": "I craft ",
+    "es": "Diseño interfaces "
   },
   "heroHeadingHighlight": {
     "en": "interactive",
     "es": "interactivas"
   },
   "heroHeadingPost": {
-    "en": " systems and scalable software.",
-    "es": " y escalables."
+    "en": " and reactive experiences.",
+    "es": " y experiencias reactivas."
   },
   "heroSubheading": {
-    "en": "Data Science student and Fullstack developer specialized in AI-driven solutions.",
-    "es": "Estudiante de Ciencia de Datos y desarrollador Fullstack especializado en soluciones impulsadas por IA."
+    "en": "Focused on crafting responsive interfaces and integrating Generative AI solutions with a Data Science foundation.",
+    "es": "Enfocado en la creación de interfaces responsivas e integración de soluciones de IA con base en Ciencia de Datos."
   },
   "aboutSubtitle": {
     "en": "Crafting complex, window-based windowing systems and reactive UIs with Angular 19.",
     "es": "Creando sistemas de ventanas complejos y UIs reactivas con Angular 19."
   },
   "aboutExperience": {
-    "en": "Developing high-performance systems with Angular and .NET, focused on Graph Analysis and RAG architectures.",
-    "es": "Desarrollando sistemas de alto rendimiento con Angular y .NET, enfocado en análisis de grafos y arquitecturas RAG."
+    "en": "Building custom window-based GUIs in Angular 18+ and responsive, SEO-optimized web platforms.",
+    "es": "Desarrollando GUIs personalizadas basadas en ventanas en Angular 18+ y plataformas web responsivas optimizadas para SEO."
   },
   "cvLink": {
     "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_frontend_en.pdf",
