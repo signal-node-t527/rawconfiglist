@@ -1,0 +1,41 @@
+{
+  "id": "ai_en",
+  "heroBadgeGreeting": {
+    "en": "Hello, I'm Nazareno - Custom Variant ai_en",
+    "es": "Hola, soy Nazareno - Variante Personalizada ai_en"
+  },
+  "heroBadgeRole": {
+    "en": "AI Solutions Engineer",
+    "es": "Ingeniero de Soluciones de IA"
+  },
+  "heroHeadingPre": {
+    "en": "I build ",
+    "es": "Construyo sistemas "
+  },
+  "heroHeadingHighlight": {
+    "en": "intelligent",
+    "es": "inteligentes"
+  },
+  "heroHeadingPost": {
+    "en": " systems and scalable software.",
+    "es": " y escalables."
+  },
+  "heroSubheading": {
+    "en": "This content was loaded in real-time from a remote configuration file.",
+    "es": "Este contenido fue cargado en tiempo real desde un archivo de configuración."
+  },
+  "aboutSubtitle": {
+    "en": "Expert in Generative AI, RAG systems, and semantic search orchestration.",
+    "es": "Experto en IA Generativa, sistemas RAG y orquestación de búsqueda semántica."
+  },
+  "aboutExperience": {
+    "en": "5+ years designing and deploying machine learning models, data pipelines, and AI-driven products.",
+    "es": "Más de 2 años diseñando e implementando modelos de machine learning y productos impulsados por IA."
+  },
+  "cvLink": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_ai_en.pdf",
+  "customProjects": [
+    "suggestion-engine",
+    "ere"
+  ],
+  "primaryColor": "200 80% 45%"
+}
