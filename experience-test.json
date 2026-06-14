@@ -1,0 +1,39 @@
+{
+  "id": "experience-test",
+  "heroBadgeGreeting": {
+    "en": "Hello, I'm Nazareno - Custom Variant experience-test",
+    "es": "Hola, soy Nazareno - Variante Personalizada experience-test"
+  },
+  "heroBadgeRole": {
+    "en": "Custom AI Engineer",
+    "es": "Ingeniero de IA a medida"
+  },
+  "heroHeadingPre": {
+    "en": "I build ",
+    "es": "Construyo sistemas "
+  },
+  "heroHeadingHighlight": {
+    "en": "revolutionary",
+    "es": "revolucionarios"
+  },
+  "heroHeadingPost": {
+    "en": " systems and scalable software.",
+    "es": " y escalables."
+  },
+  "heroSubheading": {
+    "en": "This content was loaded in real-time from a remote configuration file.",
+    "es": "Este contenido fue cargado en tiempo real desde un archivo de configuración."
+  },
+  "aboutSubtitle": {
+    "en": "Custom Subtitle",
+    "es": "Enfocado en conectar la investigación en IA con sistemas de producción."
+  },
+  "aboutExperience": {
+    "en": "This is my custom experience description with 10+ years of CLI hacking.",
+    "es": "Más de 2 años diseñando e implementando modelos de machine learning y productos impulsados por IA."
+  },
+  "customProjects": [
+    "agent-system"
+  ],
+  "primaryColor": "120 60% 40%"
+}
