@@ -1,5 +1,5 @@
 {
-  "id": "65b664ff",
+  "id": "83a637aa",
   "heroBadgeGreeting": {
     "en": "Hello, I'm Nazareno",
     "es": "Hola, soy Nazareno"
@@ -21,16 +21,16 @@
     "es": " y sistemas de IA."
   },
   "heroSubheading": {
-    "en": "Versatile developer specializing in the Angular and .NET Core stack, bridging AI logic and UX.",
-    "es": "Desarrollador versátil especializado en el stack Angular y .NET Core, conectando lógica de IA y UX."
+    "en": "Versatile engineer specialized in the Angular, .NET Core, and SQL Server ecosystem.",
+    "es": "Ingeniero versátil especializado en el ecosistema Angular, .NET Core y SQL Server."
   },
   "aboutSubtitle": {
-    "en": "Versatile engineer bridging the gap between cutting-edge AI logic and polished user experiences.",
-    "es": "Ingeniero versátil que conecta la lógica de IA de vanguardia con experiencias de usuario pulidas."
+    "en": "Leading the development of comprehensive solutions, from reactive Angular UIs to robust .NET backends and SQL storage.",
+    "es": "Liderando el desarrollo de soluciones integrales, desde UIs reactivas en Angular hasta backends robustos en .NET y almacenamiento en SQL."
   },
   "aboutExperience": {
-    "en": "Leading end-to-end development from advanced frontend components to robust backend microservices.",
-    "es": "Liderando el desarrollo de punta a punta, desde componentes frontend avanzados hasta microservicios backend robustos."
+    "en": "Experience integrating modern AI capabilities with scalable enterprise software.",
+    "es": "Experiencia en la integración de capacidades de IA modernas con software empresarial escalable."
   },
   "cvLink": {
     "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_fullstack_en.pdf",

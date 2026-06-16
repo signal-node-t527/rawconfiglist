@@ -1,5 +1,5 @@
 {
-  "id": "26cf6ec6",
+  "id": "49993b48",
   "heroBadgeGreeting": {
     "en": "Hello, I'm Nazareno",
     "es": "Hola, soy Nazareno"
@@ -21,16 +21,16 @@
     "es": " mediante software."
   },
   "heroSubheading": {
-    "en": "Proactive professional with a solid technical foundation in software development and data science.",
-    "es": "Profesional proactivo con sólida formación técnica en desarrollo de software y ciencia de datos."
+    "en": "Proactive professional with a solid technical foundation in the Angular, .NET, and SQL Server stack.",
+    "es": "Profesional proactivo con sólida formación técnica en el stack Angular, .NET y SQL Server."
   },
   "aboutSubtitle": {
-    "en": "Generalist software engineer focused on structural integrity and complex problem modeling.",
-    "es": "Ingeniero de software generalista enfocado en la integridad estructural y el modelado de problemas complejos."
+    "en": "Generalist software engineer focused on architectural integrity and reliable enterprise systems with .NET.",
+    "es": "Ingeniero de software generalista enfocado en integridad arquitectónica y sistemas empresariales confiables con .NET."
   },
   "aboutExperience": {
-    "en": "Modeling complex domains using graph data structures and building reliable, scalable systems.",
-    "es": "Modelando dominios complejos mediante estructuras de grafos y construyendo sistemas confiables y escalables."
+    "en": "Experience integrating modern AI capabilities with scalable enterprise software.",
+    "es": "Experiencia en la integración de capacidades de IA modernas con software empresarial escalable."
   },
   "cvLink": {
     "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_neutral_en.pdf",

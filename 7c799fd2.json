@@ -1,0 +1,45 @@
+{
+  "id": "7c799fd2",
+  "heroBadgeGreeting": {
+    "en": "Hello, I'm Nazareno",
+    "es": "Hola, soy Nazareno"
+  },
+  "heroBadgeRole": {
+    "en": "Frontend Developer",
+    "es": "Desarrollador Frontend"
+  },
+  "heroHeadingPre": {
+    "en": "I craft ",
+    "es": "Diseño interfaces "
+  },
+  "heroHeadingHighlight": {
+    "en": "interactive",
+    "es": "interactivas"
+  },
+  "heroHeadingPost": {
+    "en": " and reactive experiences.",
+    "es": " y experiencias reactivas."
+  },
+  "heroSubheading": {
+    "en": "Focused on Angular 19+, custom windowing systems, and seamless .NET API integration.",
+    "es": "Enfocado en Angular 19+, sistemas de ventanas personalizados e integración fluida con APIs en .NET."
+  },
+  "aboutSubtitle": {
+    "en": "Creating complex UI systems in Angular that visualize and manage deep SQL Server data structures.",
+    "es": "Creando sistemas de UI complejos en Angular que visualizan y gestionan estructuras de datos profundas en SQL Server."
+  },
+  "aboutExperience": {
+    "en": "Experience integrating modern AI capabilities with scalable enterprise software.",
+    "es": "Experiencia en la integración de capacidades de IA modernas con software empresarial escalable."
+  },
+  "cvLink": {
+    "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_frontend_en.pdf",
+    "es": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_frontend_es.pdf"
+  },
+  "customProjects": [
+    "ere",
+    "suggestion-engine",
+    "arborismo"
+  ],
+  "primaryColor": "30 80% 50%"
+}
