@@ -1,0 +1,45 @@
+{
+  "id": "b1d3503e",
+  "heroBadgeGreeting": {
+    "en": "Hello, I'm Nazareno",
+    "es": "Hola, soy Nazareno"
+  },
+  "heroBadgeRole": {
+    "en": ".NET Backend Developer",
+    "es": "Desarrollador Backend .NET"
+  },
+  "heroHeadingPre": {
+    "en": "I architect ",
+    "es": "Arquitecturo sistemas "
+  },
+  "heroHeadingHighlight": {
+    "en": "scalable",
+    "es": "escalables"
+  },
+  "heroHeadingPost": {
+    "en": " backends and robust APIs.",
+    "es": " y APIs robustas."
+  },
+  "heroSubheading": {
+    "en": "I'm a passionate developer specializing in implementing Generative AI, scalable software and designing cutting-edge models for real-world applications.",
+    "es": "Estoy especializado en implementación de IA generativa y diseño de modelos de vanguardia para aplicaciones del mundo real."
+  },
+  "aboutSubtitle": {
+    "en": "I specialize in building intelligent applications that integrate modern AI capabilities with scalable enterprise development",
+    "es": "Me especializo en la creación de aplicaciones inteligentes que integran capacidades de IA modernas con desarrollo empresarial escalable"
+  },
+  "aboutExperience": {
+    "en": "Experienced in building intelligent full-stack applications by integrating .NET and Angular with advanced AI technologies. I have successfully implemented RAG systems and semantic search engines, transforming complex graph data into actionable, high-performance resolution platforms. Proven track record in architecting scalable microservices and containerized environments.",
+    "es": "Experto en construir aplicaciones full-stack inteligentes integrando .NET y Angular con tecnologías avanzadas de IA. He implementado exitosamente sistemas RAG y motores de búsqueda semántica, transformando datos de grafos complejos en plataformas de resolución accionables y eficientes. Trayectoria comprobada arquitectando microservicios escalables y entornos contenerizados."
+  },
+  "cvLink": {
+    "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_backend_en.pdf",
+    "es": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_backend_es.pdf"
+  },
+  "customProjects": [
+    "ere",
+    "suggestion-engine",
+    "arborismo"
+  ],
+  "primaryColor": "271 80.7% 30.2%"
+}
