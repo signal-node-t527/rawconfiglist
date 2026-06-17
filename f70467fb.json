@@ -1,28 +1,28 @@
 {
-  "id": "3efaaf7f",
+  "id": "f70467fb",
   "heroBadgeGreeting": {
     "en": "Hello, I'm Nazareno",
     "es": "Hola, soy Nazareno"
   },
   "heroBadgeRole": {
-    "en": "AI Solutions Engineer",
-    "es": "IA Solutions Engineer"
+    "en": "Frontend Angular Developer",
+    "es": "Desarrollador Frontend Angular"
   },
   "heroHeadingPre": {
-    "en": "I build ",
-    "es": "Construyo sistemas "
+    "en": "I craft ",
+    "es": "Diseño interfaces "
   },
   "heroHeadingHighlight": {
-    "en": "intelligent",
-    "es": "inteligentes"
+    "en": "robust",
+    "es": "robustas"
   },
   "heroHeadingPost": {
-    "en": " systems and scalable software.",
-    "es": " y escalables."
+    "en": " and scalable software.",
+    "es": " y software escalable."
   },
   "heroSubheading": {
-    "en": "I'm a passionate developer specializing in implementing Generative AI, scalable software and designing cutting-edge models for real-world applications.",
-    "es": "Estoy especializado en implementación de IA generativa y diseño de modelos de vanguardia para aplicaciones del mundo real."
+    "en": "Focused on Angular 19+, custom scalable systems, and seamless .NET API integration.",
+    "es": "Enfocado en Angular 19+, sistemas escalables personalizados e integración fluida con APIs en .NET."
   },
   "aboutSubtitle": {
     "en": "I specialize in building intelligent applications that integrate modern AI capabilities with scalable enterprise development",
@@ -33,13 +33,13 @@
     "es": "Experto en construir aplicaciones full-stack inteligentes integrando .NET y Angular con tecnologías avanzadas de IA. He implementado exitosamente sistemas RAG y motores de búsqueda semántica, transformando datos de grafos complejos en plataformas de resolución accionables y eficientes. Trayectoria comprobada arquitectando microservicios escalables y entornos contenerizados."
   },
   "cvLink": {
-    "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_ai_en.pdf",
-    "es": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_ai_es.pdf"
+    "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_frontend_en.pdf",
+    "es": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_frontend_es.pdf"
   },
   "customProjects": [
     "ere",
     "suggestion-engine",
     "arborismo"
   ],
-  "primaryColor": "198 99.4% 57.2%"
+  "primaryColor": "0 80.7% 54.3%"
 }
