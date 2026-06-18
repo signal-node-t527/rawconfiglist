@@ -1,28 +1,28 @@
 {
-  "id": "f70467fb",
+  "id": "efc162cc",
   "heroBadgeGreeting": {
     "en": "Hello, I'm Nazareno",
     "es": "Hola, soy Nazareno"
   },
   "heroBadgeRole": {
-    "en": "Frontend Angular Developer",
-    "es": "Desarrollador Frontend Angular"
+    "en": "Fullstack Software Engineer",
+    "es": "Desarrollador de Software Fullstack"
   },
   "heroHeadingPre": {
-    "en": "I craft ",
-    "es": "Diseño interfaces "
+    "en": "I build ",
+    "es": "Construyo soluciones "
   },
   "heroHeadingHighlight": {
-    "en": "robust",
-    "es": "robustas"
+    "en": "end-to-end",
+    "es": "integrales"
   },
   "heroHeadingPost": {
-    "en": " and scalable software.",
-    "es": " y software escalable."
+    "en": " software and AI systems.",
+    "es": " y sistemas de IA."
   },
   "heroSubheading": {
-    "en": "Focused on Angular 19+, custom scalable systems, and seamless .NET API integration.",
-    "es": "Enfocado en Angular 19+, sistemas escalables personalizados e integración fluida con APIs en .NET."
+    "en": "Versatile engineer specialized in the Angular, ASP.NET Core, and SQL Server ecosystem.",
+    "es": "Desarrollador versátil especializado en el ecosistema Angular, ASP.NET Core y SQL Server."
   },
   "aboutSubtitle": {
     "en": "I specialize in building intelligent applications that integrate modern AI capabilities with scalable enterprise development",
@@ -33,13 +33,14 @@
     "es": "Experto en construir aplicaciones full-stack inteligentes integrando .NET y Angular con tecnologías avanzadas de IA. He implementado exitosamente sistemas RAG y motores de búsqueda semántica, transformando datos de grafos complejos en plataformas de resolución accionables y eficientes. Trayectoria comprobada arquitectando microservicios escalables y entornos contenerizados."
   },
   "cvLink": {
-    "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_frontend_en.pdf",
-    "es": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_frontend_es.pdf"
+    "en": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_fullstack_en.pdf",
+    "es": "https://your-supabase-storage.com/cvs/Nazareno_Tognoli_fullstack_es.pdf"
   },
   "customProjects": [
     "ere",
     "suggestion-engine",
-    "arborismo"
+    "arborismo",
+    "notes-app"
   ],
-  "primaryColor": "0 80.7% 54.3%"
+  "primaryColor": "225 100% 44%"
 }

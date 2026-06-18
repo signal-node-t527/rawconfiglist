@@ -1,5 +1,5 @@
 {
-  "id": "d7af08b7",
+  "id": "c4ef1978",
   "heroBadgeGreeting": {
     "en": "Hello, I'm Nazareno",
     "es": "Hola, soy Nazareno"
@@ -39,7 +39,8 @@
   "customProjects": [
     "ere",
     "suggestion-engine",
-    "arborismo"
+    "arborismo",
+    "notes-app"
   ],
   "primaryColor": "271 80.7% 30.2%"
 }
